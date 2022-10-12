@@ -17,7 +17,6 @@ const RepositoriesList = (props) => {
         {repositoriesList.length && 
             <ul>
                 {repositoriesList.map(repository => <li key={repository.id}>
-                    console.log(repository);
                     <a href={repository.html_url} target="_blank" rel="noreferrer">{repository.name}</a>
                     <p>Created at: {Date(repository.created_at)}</p>
                     <div>
