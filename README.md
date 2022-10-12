@@ -36,4 +36,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 #### Used packages:
 axios
 
-##### NOt all aprts were made (Beginnerin ReactJs)
+##### Not all parts were made (Beginner in ReactJs)
